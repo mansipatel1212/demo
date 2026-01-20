@@ -1,2 +1,2 @@
 # demo
-this my  first got hub repository
+this my  first git hub repository
